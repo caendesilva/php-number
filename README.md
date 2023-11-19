@@ -55,7 +55,9 @@ $preciseNumber = Number::format(1234.56789, 2);
 $currencyFormatted = Number::currency(1234.56, 'GBP', 'fr');
 ```
 
-## License
+## Information
+
+### License
 
 This package is open-sourced software licensed under the [MIT License](LICENSE.md).
 
